@@ -1,0 +1,32 @@
+2019-12-21 17:43:00,461 - Batch:     0	Joint Loss: 0.07347
+2019-12-21 17:43:00,461 - ---
+2019-12-21 17:43:00,462 - Epoch: 1	 Joint Loss: 0.07347
+2019-12-21 17:43:03,078 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.07872	Corr: 0.061	CCC: 0.013932319
+2019-12-21 17:43:25,951 - Batch:     0	Joint Loss: 0.08292
+2019-12-21 17:43:25,952 - ---
+2019-12-21 17:43:25,952 - Epoch: 2	 Joint Loss: 0.08292
+2019-12-21 17:43:28,668 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.05835	Corr: 0.209	CCC: 0.055922111
+2019-12-21 17:43:50,293 - Batch:     0	Joint Loss: 0.05995
+2019-12-21 17:43:50,293 - ---
+2019-12-21 17:43:50,294 - Epoch: 3	 Joint Loss: 0.05995
+2019-12-21 17:43:52,917 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.04470	Corr: 0.342	CCC: 0.101948760
+2019-12-21 17:44:15,418 - Batch:     0	Joint Loss: 0.04550
+2019-12-21 17:44:15,418 - ---
+2019-12-21 17:44:15,418 - Epoch: 4	 Joint Loss: 0.04550
+2019-12-21 17:44:17,918 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.04794	Corr: 0.450	CCC: 0.119771028
+2019-12-21 17:44:42,848 - Batch:     0	Joint Loss: 0.04928
+2019-12-21 17:44:42,850 - ---
+2019-12-21 17:44:42,850 - Epoch: 5	 Joint Loss: 0.04928
+2019-12-21 17:44:45,529 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.05028	Corr: 0.525	CCC: 0.138071300
+2019-12-21 17:45:06,921 - Batch:     0	Joint Loss: 0.05214
+2019-12-21 17:45:06,922 - ---
+2019-12-21 17:45:06,922 - Epoch: 6	 Joint Loss: 0.05214
+2019-12-21 17:45:09,631 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.04632	Corr: 0.569	CCC: 0.171738247
+2019-12-21 17:45:31,870 - Batch:     0	Joint Loss: 0.04773
+2019-12-21 17:45:31,876 - ---
+2019-12-21 17:45:31,876 - Epoch: 7	 Joint Loss: 0.04773
+2019-12-21 17:45:34,694 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.04104	Corr: 0.592	CCC: 0.211476481
+2019-12-21 17:45:59,294 - Batch:     0	Joint Loss: 0.04195
+2019-12-21 17:45:59,294 - ---
+2019-12-21 17:45:59,294 - Epoch: 8	 Joint Loss: 0.04195
+2019-12-21 17:46:02,080 - ['image', 'linguistic', 'acoustic'] Joint Evaluation	Loss: 0.03852	Corr: 0.601	CCC: 0.240742590
